@@ -1,0 +1,9 @@
+{
+  "type": "preload-native",
+  "name": "EagleView",
+  "entry": "libEagleView.so",
+  "author": "you",
+  "icon": "",
+  "version": "v0.1.0",
+  "minecraft_versions": ["1.26.5*"]
+}
